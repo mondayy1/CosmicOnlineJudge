@@ -1,7 +1,7 @@
 # OnlineJudge Front End
 
 >### A multiple pages app built for OnlineJudge.
->[Link](203.255.81.70:8026)
+>[Link]: 203.255.81.70:8026
 
 ## Members
 + TODO
